@@ -2,7 +2,7 @@
   "meta": {
     "title": "Jamstack Philippines",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "A site for Jamstack Philippines",
     "siteUrl": "https://jamstack.pilipinas.dev",
     "image": "/assets/owlee.gif",
     "iconimage": "/assets/favi.png",
