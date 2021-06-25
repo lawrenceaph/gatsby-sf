@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Jamstack Philippines
+tagline: "Faster, More Secure, Scalable Web Apps and Sites "
+featuredImage: /assets/ales-nesetril-im7lzjxelhg-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+The Jamstack is a model for building fast, secure, scalable sites using Javascript, APIs, Markup (the JAM in Jamstack).
